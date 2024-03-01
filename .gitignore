@@ -1,0 +1,5 @@
+sssl-server_student/.mvn./*
+ssl-server_student/.setting/*
+*.cer
+*.jks
+*.p12
