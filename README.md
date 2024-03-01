@@ -2,7 +2,7 @@
 
 Artemis Financial develops customized financial plans for its customers, covering savings, retirement, investments, insurance, and more. Given that the company possesses data on their clients' financial information, protecting this information is paramount. Therefore, all data communicated over their API services must be highly secure and monitored at all times.
 
-The hired our company to make sure their software application followed software security best practices including: updated date maven dependencies with minimal vulnerabilities, the data used in the application is encrypted using a cipher algorithm such as SHA-256, the software uses server certificates to create trustworthy connections to the client, the code has error handling, and overall meets the criteria of the .Vulnerability Assessment Process Flow Diagram.
+Our company was hired to ensure that their software application adheres to software security best practices. These practices include maintaining up-to-date Maven dependencies with minimal vulnerabilities, encrypting the data used in the application with a cipher algorithm such as SHA-256, using server certificates to establish trustworthy connections with the client, implementing comprehensive error handling, and overall, meeting the criteria outlined in the Vulnerability Assessment Process Flow Diagram.
 
 ### What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
