@@ -1,2 +1,5 @@
 sssl-server_student/.mvn./*
 ssl-server_student/.setting/*
+
+.vscode/*
+.DS_Store

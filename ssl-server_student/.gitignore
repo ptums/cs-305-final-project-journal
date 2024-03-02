@@ -36,5 +36,5 @@ build/
 *.jks
 *.p12
 
-.vscode
+.vscode/*
 .DS_Store
