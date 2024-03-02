@@ -28,6 +28,10 @@ Before making any changes, I would run a dependency check report and record the 
 
 ### What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
-Refactoring the code to incorporate try/catch blocks, along with proper error alerting, is a coding practice I believe will be beneficial for future assignments and tasks. When I was a beginner programmer, I perceived error messages as negative indicators. I thought that encountering an error meant one was not proficient in coding. However, after gaining years of experience, my perspective has shifted. I now view errors as valuable guides in understanding the limitations of the software. They serve as excellent indicators of what is not functioning correctly in the code and provide a solid starting point for devising a solution.
+Refactoring the code to incorporate try/catch blocks, along with proper error alerting, is a coding practice I believe will be beneficial for future assignments and tasks. When I was a beginner programmer, I perceived error messages as negative indicators. I thought that encountering an error meant one was not proficient in coding.
+
+<img width="495" alt="Screenshot 2024-03-02 at 7 58 10 AM" src="https://github.com/ptums/cs-305-final-project-journal/assets/4443722/fbc61a49-5ccf-4dc8-b141-6913c13911e5">
+
+However, after gaining years of experience, my perspective has shifted. I now view errors as valuable guides in understanding the limitations of the software. They serve as excellent indicators of what is not functioning correctly in the code and provide a solid starting point for devising a solution.
 
 ### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
