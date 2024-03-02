@@ -34,4 +34,6 @@ Refactoring the code to incorporate try/catch blocks, along with proper error al
 
 ### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
+<img width="709" alt="Screenshot 2024-03-02 at 8 14 13 AM" src="https://github.com/ptums/cs-305-final-project-journal/assets/4443722/1cf79c25-467e-4e41-b107-de05945a925c">
+
 I aim to demonstrate to future employers my proficiency in configuring and installing server certificates for any software project. I consider this a specialized skill that few software engineers possess. Typically, the task of managing this responsibility falls to Network Engineers or DevOps Engineers. However, as a software engineer, I am equipped to support my team members in configuring the SSL certificate for our project. I am convinced that a thorough understanding of how SSL certificates function, including their management and generation, positions me as a valuable asset to any team.
