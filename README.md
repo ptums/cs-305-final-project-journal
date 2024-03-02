@@ -22,6 +22,12 @@ One thing to note is that between each report run, I would perform a smoke test 
 
 ### How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
+The approach I took to ensure the code and software application were functional and secure involved carefully examining each line of the codebase. If I discovered anything insecure or of poor quality, I would make a note of it and then assess how that particular line of code affects other aspects of the program. Understanding how vulnerable lines of code impact other parts allowed me to grasp the program as a whole from a holistic perspective.
+
+Before making any changes, I would run a dependency check report and record the number of vulnerabilities. After making my adjustments, I tested from a client perspective to see if my changes resolved the issue at hand. If the code refactoring successfully addressed the issue, I would run the report again to ensure my changes did not introduce any new problems. This process was tedious and involved a lot of trial and error, but ultimately, it proved to be the best method for fixing issues with the code without introducing new ones.
+
 ### What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+
+Refactoring the code to incorporate try/catch blocks, along with proper error alerting, is a coding practice I believe will be beneficial for future assignments and tasks. When I was a beginner programmer, I perceived error messages as negative indicators. I thought that encountering an error meant one was not proficient in coding. However, after gaining years of experience, my perspective has shifted. I now view errors as valuable guides in understanding the limitations of the software. They serve as excellent indicators of what is not functioning correctly in the code and provide a solid starting point for devising a solution.
 
 ### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
