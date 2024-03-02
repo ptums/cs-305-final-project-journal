@@ -37,3 +37,4 @@ build/
 *.p12
 
 .vscode
+.DS_Store
